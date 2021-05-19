@@ -1,4 +1,4 @@
-# Inspire-Inside  
+# INSPIRE INSIDE
 Streaming Content Information  
 
 Under the era of the pandemic, online performance to stream is becoming the most attractive alternative for the conventional theater experience. This site provides various ranges of information about the world's classical music institutions to offer streaming services.  
